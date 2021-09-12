@@ -19,8 +19,8 @@
 
 ### Other Documents
 
-- [Bachelor Thesis (German)](/pdf/Bachelorarbeit.pdf)
 - [Master Thesis](/pdf/Master_thesis.pdf)
+- [Bachelor Thesis (German)](/pdf/Bachelorarbeit.pdf)
 - [Project 3 Title](http://example.com/)
 
 ---
