@@ -9,7 +9,7 @@
 
 ---
 [Threat Perception Analysis](https://github.com/Marti-Ritter/Threat-Perception-Analysis)
-<img src="images/Analysis_example.png?raw=true"/>
+<img src="images/Analysis_example.png"/>
 
 ---
 [Project 3 Title](/pdf/sample_presentation.pdf)
