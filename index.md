@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Threat Perception Setup](https://github.com/Marti-Ritter/Threat-Perception-Setup)
-<img src="images/Setup_Structure.png/>
+<img src="images/Setup_Structure.png"/>
 
 ---
 [Threat Perception Analysis](https://github.com/Marti-Ritter/Threat-Perception-Analysis)
