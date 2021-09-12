@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Active Projects 
 
 [Threat Perception Setup](https://github.com/Marti-Ritter/Threat-Perception-Setup)
 <img src="images/Setup_Structure.png"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Other Documents
 
 - [Bachelor Thesis (German)](/pdf/Bachelorarbeit.pdf)
 - [Master Thesis](/pdf/Master_thesis.pdf)
