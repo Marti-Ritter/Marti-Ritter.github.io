@@ -19,8 +19,8 @@
 
 ### Category Name 2
 
-- [Bachelor Thesis (German)](http://example.com/)
-- [Master Thesis](http://example.com/)
+- [Bachelor Thesis (German)](/pdf/Bachelorarbeit.pdf)
+- [Master Thesis](/pdf/Master thesis.pdf)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
