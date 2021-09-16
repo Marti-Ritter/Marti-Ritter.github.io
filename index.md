@@ -1,4 +1,4 @@
-## Portfolio
+# Portfolio
 ---
 
 ## Active Research: Threat Perception (MATLAB, Python)
