@@ -11,16 +11,16 @@
 ---
 
 ## Programming Projects 
-### [1. Bachelor Thesis: Exploration of Aquaponics Data (C#)](https://github.com/Marti-Ritter/Portfolio/tree/main/Exploring%20Aquaponics%20Data%20(C%23))
+### [Bachelor Thesis: Exploration of Aquaponics Data (C#)](https://github.com/Marti-Ritter/Portfolio/tree/main/Exploring%20Aquaponics%20Data%20(C%23))
 [![Exploration of Aquaponics Data (C#)](images/Visev_display.png)](https://github.com/Marti-Ritter/Portfolio/tree/main/Exploring%20Aquaponics%20Data%20(C%23))
 
-### [2. Exploring Results of RNA-Sequencing (DeSeq2 in R, Python)](https://github.com/Marti-Ritter/Portfolio/tree/main/Exploring%20Changes%20in%20Gene%20Expression%20(R%20and%20Python))
+### [Exploring Results of RNA-Sequencing (DeSeq2 in R, Python)](https://github.com/Marti-Ritter/Portfolio/tree/main/Exploring%20Changes%20in%20Gene%20Expression%20(R%20and%20Python))
 [![Exploring Results of RNA-Sequencing (DeSeq2 in R, Python)](images/Dashboard.jpg)](https://github.com/Marti-Ritter/Portfolio/tree/main/Exploring%20Changes%20in%20Gene%20Expression%20(R%20and%20Python))
 
-### [3. Creating a Stereotactic Injection Interface (Python)](https://github.com/Marti-Ritter/Portfolio/tree/main/Injection%20Interface%20(Python))
+### [Creating a Stereotactic Injection Interface (Python)](https://github.com/Marti-Ritter/Portfolio/tree/main/Injection%20Interface%20(Python))
 [![Creating a Stereotactic Injection Interface (Python)](images/Details.jpg)](https://github.com/Marti-Ritter/Portfolio/tree/main/Injection%20Interface%20(Python))
 
-### [4. Developing a user-friendly documentation pipeline (Python)](https://github.com/Marti-Ritter/Portfolio/tree/main/Automatic%20Documentation%20Processor%20(Python))
+### [Developing a user-friendly documentation pipeline (Python)](https://github.com/Marti-Ritter/Portfolio/tree/main/Automatic%20Documentation%20Processor%20(Python))
 [![Developing a user-friendly documentation pipeline (Python)](images/Processor.jpg)](https://github.com/Marti-Ritter/Portfolio/tree/main/Automatic%20Documentation%20Processor%20(Python))
 
 ---
