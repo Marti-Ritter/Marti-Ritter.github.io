@@ -1,4 +1,4 @@
-# Portfolio
+# [Portfolio](https://github.com/Marti-Ritter/Portfolio)
 ---
 
 ## Active Research: Threat Perception (MATLAB, Python)
