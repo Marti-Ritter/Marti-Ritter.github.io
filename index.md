@@ -1,57 +1,42 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Active Research: Threat Perception (MATLAB, Python)
-
-[Threat Perception Setup](https://github.com/Marti-Ritter/Threat-Perception-Setup)
-<img src="images/Setup_Structure.png"/>
-
----
-[Threat Perception Analysis](https://github.com/Marti-Ritter/Threat-Perception-Analysis)
-<img src="images/Analysis_example.png"/>
+## Active Research: Threat Perception (MATLAB, Python)
+### [1. Threat Perception Setup](https://github.com/Marti-Ritter/Portfolio/tree/main/Threat%20Perception%20Setup%20(Python%20and%20Matlab))
+[![Threat Perception Setup](images/Setup_Structure.png)](https://github.com/Marti-Ritter/Portfolio/tree/main/Threat%20Perception%20Setup%20(Python%20and%20Matlab))
 
 ---
-[Project 3 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [2. Threat Perception Analysis](https://github.com/Marti-Ritter/Portfolio/tree/main/Threat%20Perception%20Analysis%20(Python%20and%20Matlab))
+[![Threat Perception Analysis](images/DeepLabCut.png)](https://github.com/Marti-Ritter/Portfolio/tree/main/Threat%20Perception%20Analysis%20(Python%20and%20Matlab))
 
 ---
 
-### Programming Projects 
-#### Bachelor Thesis (C#)
-[Exploration of Aquaponics Data](https://github.com/Marti-Ritter/Threat-Perception-Setup)
-<img src="images/Setup_Structure.png"/>
+## Programming Projects 
+### [1. Bachelor Thesis: Exploration of Aquaponics Data (C#)](https://github.com/Marti-Ritter/Portfolio/tree/main/Exploring%20Aquaponics%20Data%20(C%23))
+[![Exploration of Aquaponics Data (C#)](images/Visev_display.png)](https://github.com/Marti-Ritter/Portfolio/tree/main/Exploring%20Aquaponics%20Data%20(C%23))
 
 ---
-#### Exploring Results of RNA-Sequencing (DeSeq2 in R, Python)
-[Investigating Differences in Gene Expression](https://github.com/Marti-Ritter/Threat-Perception-Setup)
-<img src="images/Setup_Structure.png"/>
+### [2. Exploring Results of RNA-Sequencing (DeSeq2 in R, Python)](https://github.com/Marti-Ritter/Portfolio/tree/main/Exploring%20Changes%20in%20Gene%20Expression%20(R%20and%20Python))
+[![Exploring Results of RNA-Sequencing (DeSeq2 in R, Python)](images/Dashboard.jpg)](https://github.com/Marti-Ritter/Portfolio/tree/main/Exploring%20Changes%20in%20Gene%20Expression%20(R%20and%20Python))
 
 ---
-
-#### Creating a Stereotactic Injection Interface (Python)
-[Modifying an existing Brain Atlas into a surgical interface](https://github.com/Marti-Ritter/Threat-Perception-Setup)
-<img src="images/Setup_Structure.png"/>
+### [3. Creating a Stereotactic Injection Interface (Python)](https://github.com/Marti-Ritter/Portfolio/tree/main/Injection%20Interface%20(Python))
+[![Creating a Stereotactic Injection Interface (Python)](images/Details.jpg)](https://github.com/Marti-Ritter/Portfolio/tree/main/Injection%20Interface%20(Python))
 
 ---
-#### Developing a user-friendly documentation pipeline (Python)
-[PyRat Comment Parser and Documentation Processor](https://github.com/Marti-Ritter/Threat-Perception-Setup)
-<img src="images/Setup_Structure.png"/>
+### [4. Developing a user-friendly documentation pipeline (Python)](https://github.com/Marti-Ritter/Portfolio/tree/main/Automatic%20Documentation%20Processor%20(Python))
+[![Developing a user-friendly documentation pipeline (Python)](images/Processor.jpg)](https://github.com/Marti-Ritter/Portfolio/tree/main/Automatic%20Documentation%20Processor%20(Python))
 
 ---
-### Code Examples
-- [Bachelor Course "Basics in Programming" (Java)](http://example.com/)
-- [Coursera Certificate "Applied Data Science with Python" (Python)](http://example.com/)
+## Other Code Examples
+- [Coursera Certificate "Applied Data Science with Python" (Python)](https://github.com/Marti-Ritter/Portfolio/tree/main/Coursera%20Applied%20Data%20Science%20(Python))
+- [Bachelor Course "Basics in Programming" (Java)](https://github.com/Marti-Ritter/Portfolio/tree/main/Basics%20in%20Programming%20(Java))
 
 ---
-### Documents
-- [Master Thesis](/pdf/Master_thesis.pdf)
-- [Bachelor Thesis (German)](/pdf/Bachelorarbeit.pdf)
-
----
-
-
-
+## Documents
+- [Master Thesis](https://github.com/Marti-Ritter/Portfolio/tree/main/Threat%20Perception%20Setup%20(Python%20and%20Matlab)/Master%20thesis.pdf)
+- [Bachelor Thesis (German)](https://github.com/Marti-Ritter/Portfolio/tree/main/Exploring%20Aquaponics%20Data%20(C%23)/Bachelorarbeit.pdf)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
