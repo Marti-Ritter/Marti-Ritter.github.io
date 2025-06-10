@@ -11,8 +11,8 @@
 ---
 
 ## Data Science Projects:
-### [Frame Pipeline Toolbox (Python)](https://github.com/Marti-Ritter/behavioral-analysis/tree/main/frame_pipeline)
-[![Frame Pipeline (Python)](images/merged_example.gif)](https://github.com/Marti-Ritter/behavioral-analysis/tree/main/frame_pipeline)
+### [Frame Pipeline Toolbox (Python)](https://github.com/Marti-Ritter/frame-pipeline)
+[![Frame Pipeline (Python)](images/merged_example.gif)](https://github.com/Marti-Ritter/frame-pipeline)
 
 ### [Python ALS (Python)](https://github.com/Marti-Ritter/python-als)
 [![Python ALS (Python)](images/PythonAls_Overview.png)](https://github.com/Marti-Ritter/python-als)
