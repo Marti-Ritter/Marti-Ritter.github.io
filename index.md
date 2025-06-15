@@ -1,4 +1,6 @@
 # Portfolio
+
+#### [In case your screen does not show the full banner on the left, scroll out a bit with ctrl + mouse wheel.](## "The cut-off banner is a problem with this Jekyll theme at a small set of screen resolutions. Any lower resolutions lead to the whole page being shown in one column and thus scrollable, higher resolutions show the banner just fine. Please excuse the inconvenience!")
 ---
 
 ## Recent Research:
@@ -25,7 +27,7 @@
 
 ---
 
-## Team-focused projects:
+## Team-focused Projects:
 ### [Developing a user-friendly documentation pipeline (Python)](https://github.com/Marti-Ritter/Portfolio/tree/main/Automatic%20Documentation%20Processor%20(Python))
 [![Developing a user-friendly documentation pipeline (Python)](images/Processor.jpg)](https://github.com/Marti-Ritter/Portfolio/tree/main/Automatic%20Documentation%20Processor%20(Python))
 
@@ -34,7 +36,7 @@
 
 ---
 
-## Hardware-focused projects:
+## Hardware-focused Projects:
 ### [Threat Perception Setup](https://github.com/Marti-Ritter/Portfolio/tree/main/Threat%20Perception%20Setup%20(Python%20and%20Matlab))
 [![Threat Perception Setup](images/Setup_Structure.png)](https://github.com/Marti-Ritter/Portfolio/tree/main/Threat%20Perception%20Setup%20(Python%20and%20Matlab))
 
