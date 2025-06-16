@@ -5,10 +5,10 @@
 
 ## Recent Research:
 ### [Social Context Restructures Behavioral Syntax in Mice](https://github.com/Marti-Ritter/social-context-restructures-behavioral-syntax-in-mice)
-[![Social Context Paper, Figure 1](images/SocialContext_SupplFig1PanelA.png)](https://github.com/Marti-Ritter/social-context-restructures-behavioral-syntax-in-mice)
+[![Social Context Paper, Figure 1](images/trajectory_overview.gif)](https://github.com/Marti-Ritter/social-context-restructures-behavioral-syntax-in-mice)
 
 ### [Suppression of flight and freezing responses in a simulated foraging environment containing a predator](https://github.com/Marti-Ritter/contextual-modulation-and-blunted-defensive-responses-to-predators)
-[![Blunted Defence Paper, Top Down View](images/BluntedDefence_TopDownRatPresence.png)](https://github.com/Marti-Ritter/contextual-modulation-and-blunted-defensive-responses-to-predators)
+[![Blunted Defence Paper, Pupil diameter tracking](images/SimulatedForageAnalysis.gif)](https://github.com/Marti-Ritter/contextual-modulation-and-blunted-defensive-responses-to-predators)
 
 ---
 
