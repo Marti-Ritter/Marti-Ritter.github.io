@@ -1,5 +1,7 @@
 # Portfolio
 
+#### Welcome to my Portfolio! I use this page to present part of the code I wrote for the projects in my career. If you have questions regarding the research projects or tools shown here, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/marti-ritter/) or [GitHub](https://github.com/Marti-Ritter)!
+
 #### [In case your screen does not show the full banner on the left, scroll out a bit with ctrl + mouse wheel.](## "The cut-off banner is a problem with this Jekyll theme at a small set of screen resolutions. Any lower resolutions lead to the whole page being shown in one column and thus scrollable, higher resolutions show the banner just fine. Please excuse the inconvenience!")
 ---
 
