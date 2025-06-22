@@ -1,18 +1,14 @@
 title: Marti Ritter # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Highly motivated and skilled Data Scientist working >6 years in Neuroscience and pre-clinical research, within diverse academic environments and pre-clinical industry settings investigating complex behavioral data.
-  <br><br>
-  Extensive experience in programming, data visualization, system control, automatization, animal research, setup construction, text and video analysis, and in vitro imaging. 
-  Planned and implemented a wide range of projects, with research topics including innate fear, social behavior, and behavior segmentation.
+  Highly motivated and skilled Data Scientist, with extensive experience in diverse academic environments and pre-clinical industry settings investigating complex behavioral data.
   <br><br>
   Certified Professional Scrum Master with experience in leading small teams in novel research projects, facilitating teams with Data Science, and delivering valuable insights into complex datasets.
   <br><br>
-
   <a href="https://linkedin.com/in/marti-ritter/">View My LinkedIn Profile</a> 
   
 github:
   is_project_page: false
-  is_user_page: true
+  is_user_page: false
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
